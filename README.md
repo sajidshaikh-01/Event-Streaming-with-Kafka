@@ -104,6 +104,9 @@ With event streaming:
 
 ## 4. Kafka Architecture (Simple View)
 
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/aad357fb-735a-424b-8025-b24819ac8c21" />
+
+
 ```
 Producer
    |
